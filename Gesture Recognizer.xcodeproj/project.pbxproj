@@ -13,6 +13,8 @@
 		677D589D1F7FCB7000E364EC /* Gesture_Recognizer.xcdatamodeld in Sources */ = {isa = PBXBuildFile; fileRef = 677D589B1F7FCB7000E364EC /* Gesture_Recognizer.xcdatamodeld */; };
 		677D589F1F7FCB7000E364EC /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 677D589E1F7FCB7000E364EC /* Assets.xcassets */; };
 		677D58A21F7FCB7000E364EC /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 677D58A01F7FCB7000E364EC /* LaunchScreen.storyboard */; };
+		677D58AB1F7FCE2400E364EC /* macbook.jpeg in Resources */ = {isa = PBXBuildFile; fileRef = 677D58A91F7FCCA800E364EC /* macbook.jpeg */; };
+		677D58AC1F7FCE2800E364EC /* pc.jpeg in Resources */ = {isa = PBXBuildFile; fileRef = 677D58AA1F7FCCB500E364EC /* pc.jpeg */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -24,6 +26,8 @@
 		677D589E1F7FCB7000E364EC /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		677D58A11F7FCB7000E364EC /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
 		677D58A31F7FCB7000E364EC /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		677D58A91F7FCCA800E364EC /* macbook.jpeg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = macbook.jpeg; sourceTree = "<group>"; };
+		677D58AA1F7FCCB500E364EC /* pc.jpeg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = pc.jpeg; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -59,6 +63,8 @@
 				677D58941F7FCB7000E364EC /* AppDelegate.swift */,
 				677D58961F7FCB7000E364EC /* ViewController.swift */,
 				677D58981F7FCB7000E364EC /* Main.storyboard */,
+				677D58A91F7FCCA800E364EC /* macbook.jpeg */,
+				677D58AA1F7FCCB500E364EC /* pc.jpeg */,
 				677D589E1F7FCB7000E364EC /* Assets.xcassets */,
 				677D58A01F7FCB7000E364EC /* LaunchScreen.storyboard */,
 				677D58A31F7FCB7000E364EC /* Info.plist */,
@@ -126,7 +132,9 @@
 			isa = PBXResourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				677D58AB1F7FCE2400E364EC /* macbook.jpeg in Resources */,
 				677D58A21F7FCB7000E364EC /* LaunchScreen.storyboard in Resources */,
+				677D58AC1F7FCE2800E364EC /* pc.jpeg in Resources */,
 				677D589F1F7FCB7000E364EC /* Assets.xcassets in Resources */,
 				677D589A1F7FCB7000E364EC /* Main.storyboard in Resources */,
 			);
